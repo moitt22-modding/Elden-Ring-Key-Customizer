@@ -6,27 +6,25 @@ This mod basically lets you switch all Elden Ring keybinds with each other.
 For example you can switch the x-button with the triangle button or
 switch the x button with the left trigger.
 
-**How do I use this mod?**
+**Installation:**
+1. Install mod engine 3 from https://github.com/garyttierney/me3/releases/tag/v0.9.0
+2. Download the .zip file
+3. Extract it somewhere
+4. Make sure steam is running
+5. Open launch.me3 which is in the newly created folder, you got by extracting the zip
 
-On launch the mod creates a .ini file next to the .dll.
-The .ini holds the settings.
-In the settings you will see a bunch of settings, the left side being the destination button and the right side being the source one,
-that means, that if you want to change the x button with the circle button you would have to go to the line where it says "X Button" on the left side
-and replace the right side with: "Circle Button".
-
-
-
-**How do I install this mod?**
-
-1. Download er_keycustomizer.zip from the release page.
-2. Unpack the zip to anywhere you want
-3. Install modengine3 from "https://github.com/garyttierney/me3/releases".
-4. Make sure steam is running.
-5. Double click the file called launch.me3 which is located right next to the dll inside the folder you got from unpacking the zip.
+**How to use?**
+Once you start the game, next to the launch file there will apear a new file called er_key_customization.config.ini.
+To configurate your keybinds open that file, there you will see a bunch of settings in this format:
+vanilla button = button it should trigger
+Which means if you want to change the Circle Button to be the X Button you would need to change this line:
+Circle Button = Circle Button 
+to 
+Circle Button = X Button
 
 
-**Credits**
-- Me
+**Merging:**
+This mod is a dll mod which means it won't require any merging, this mod should be compatible with most Elden Ring mods.
 
 **Licensing**
 
