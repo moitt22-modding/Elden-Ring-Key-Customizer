@@ -2,7 +2,7 @@
 
 **What does this mod do?**
 
-This mod basically lets you switch all Elden Ring keybinds with others.
+This mod basically lets you switch all Elden Ring keybinds with each other.
 For example you can switch the x-button with the triangle button or
 switch the x button with the left trigger.
 
