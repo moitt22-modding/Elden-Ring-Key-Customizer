@@ -18,9 +18,11 @@ and replace the right side with: "Circle Button".
 
 **How do I install this mod?**
 
-1. Install modengine3 from "https://github.com/garyttierney/me3/releases".
-2. Make sure steam is running.
-3. Double click the file called launch.me3 which is located right next to the dll.
+1. Download er_keycustomizer.zip from the release page.
+2. Unpack the zip to anywhere you want
+3. Install modengine3 from "https://github.com/garyttierney/me3/releases".
+4. Make sure steam is running.
+5. Double click the file called launch.me3 which is located right next to the dll inside the folder you got from unpacking the zip.
 
 
 **Credits**
