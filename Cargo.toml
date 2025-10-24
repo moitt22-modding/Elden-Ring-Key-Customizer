@@ -1,0 +1,13 @@
+[package]
+name = "er_keycustomizer"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+retour = { version = "0.3", features = ["static-detour"] }
+windows = {version ="0.62.2", features = ["Win32_System_LibraryLoader"]}
+rust-ini = "0.21.3"
