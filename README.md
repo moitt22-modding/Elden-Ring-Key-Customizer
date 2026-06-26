@@ -7,7 +7,7 @@ For example you can switch the x-button with the triangle button or
 switch the x button with the left trigger.
 
 **Installation:**
-1. Install mod engine 3 from https://github.com/garyttierney/me3/releases/tag/v0.9.0
+1. Install newest mod engine 3 from [here](https://github.com/garyttierney/me3/releases)
 2. Download the .zip file
 3. Extract it somewhere
 4. Make sure steam is running
@@ -25,20 +25,3 @@ Circle Button = X Button
 
 **Merging:**
 This mod is a dll mod which means it won't require any merging, this mod should be compatible with most Elden Ring mods.
-
-**Licensing**
-
-
-
-This software is licensed under the MIT License.
-
-All Licenses of Software that is used by this Software can be found in the folder called Licenses.
-
-Portions of this software are derived from Unicode data files or software
-
-© 1991–2025 Unicode, Inc. All rights reserved.
-
-Distributed under the Unicode License Version 3.0.
-
-See https://www.unicode.org/license.html for more information.
-
